@@ -12,13 +12,14 @@ def First_Room():
     Folder_6=("FOLDER 6:\n NAME: Brewer, Grayson \n AGE: 24 \n OCCUPATION: [redacted] \n BIO: [redacted]\n")
     Room_1 = ["table", "bunks", "door"]
     Table = ["writing", "folders"]
-    Note=("\n'only six there shall be, to open the doors and set ye free'\n'a seventh will rear it's ugly head, strike them down or wind up dead'\n")
+    Note=("\n'A villain walks amongst the six, a seventh filled with hate and tricks'\n'find the killer, hear their plea, solve the thriller, and then walk free'\n")
     Names=["dax", "jada", "kyler", "athena", "grayson", "catalina"]
     Puzzle_1=["slots", "folders"]
     Folders=["all", "1", "2", "3", "4", "5", "6"]
     Slots=["continue", "skip"]
 
 #Room 1 Investigation
+
 
 
     input("Your eyes slowly open, you feel the cold floor below and start to look around.")
