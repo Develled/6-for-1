@@ -4,12 +4,12 @@ def First_Room():
 #defining of variables for Room 1
 
 
-    Folder_1=("FOLDER 1:\n NAME: de Jong, Kyler\n AGE: 28 \n OCCUPATION: Math Professor \n BIO: This is where my Bio would go .. IF I HAD ONE\n")
-    Folder_2=("FOLDER 2:\n NAME: Bland-Lasso, Catalina \n AGE: 30 \n OCCUPATION: Nurse \n BIO: This is where my Bio would go .. IF I HAD ONE\n")
-    Folder_3=("FOLDER 3:\n NAME: Sacre, Dax \n AGE: 19 \n OCCUPATION: Carpentry Apprentice \n BIO: This is where my Bio would go .. IF I HAD ONE\n")
-    Folder_4=("FOLDER 4:\n NAME: Moraitis, Athena \n AGE: 23 \n OCCUPATION: Firefighter \n BIO: This is where my Bio would go .. IF I HAD ONE\n")
-    Folder_5=("FOLDER 5:\n NAME: Giménez, Jada \n AGE: 22 \n OCCUPATION: Bartender \n BIO: This is where my Bio would go .. IF I HAD ONE\n")
-    Folder_6=("FOLDER 6:\n NAME: Brewer, Grayson \n AGE: 26 \n OCCUPATION: Journalist \n BIO: [redacted]\n")
+    Folder_1=("FOLDER 1:\n NAME: de Jong, Kyler\n AGE: 32 \n OCCUPATION: Physics Professor \n BIO: This is where my Bio would go .. IF I HAD ONE\n")
+    Folder_2=("FOLDER 2:\n NAME: Reyes, Catalina \n AGE: 27 \n OCCUPATION: Nurse \n BIO: This is where my Bio would go .. IF I HAD ONE\n")
+    Folder_3=("FOLDER 3:\n NAME: Sacre, Dax \n AGE: 19 \n OCCUPATION: Author \n BIO: This is where my Bio would go .. IF I HAD ONE\n")
+    Folder_4=("FOLDER 4:\n NAME: Petridis, Athena \n AGE: 24 \n OCCUPATION: Firefighter \n BIO: This is where my Bio would go .. IF I HAD ONE\n")
+    Folder_5=("FOLDER 5:\n NAME: Giménez, Jada \n AGE: 23 \n OCCUPATION: Botonist \n BIO: This is where my Bio would go .. IF I HAD ONE\n")
+    Folder_6=("FOLDER 6:\n NAME: Brewer, Grayson \n AGE: 24 \n OCCUPATION: [redacted] \n BIO: [redacted]\n")
     Room_1 = ["table", "bunks", "door"]
     Table = ["writing", "folders"]
     Note=("\n'only six there shall be, to open the doors and set ye free'\n'a seventh will rear it's ugly head, strike them down or wind up dead'\n")
